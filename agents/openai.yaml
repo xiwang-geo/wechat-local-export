@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信本地聊天导出"
+  short_description: "只读导出 Windows 微信指定会话，核对联系人、历史分片及记录完整性"
+  default_prompt: "使用 $wechat-local-export 将我授权的微信本地指定会话导出为 TXT，并核对联系人与记录完整性。"

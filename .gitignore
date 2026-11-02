@@ -1,0 +1,19 @@
+# Explicit publication allowlist: runtime artifacts are never candidates.
+*
+!/.gitignore
+!/SKILL.md
+!/README.md
+!/LICENSE
+!/THIRD_PARTY_NOTICES.md
+!/requirements.txt
+!/agents/
+!/agents/*.yaml
+!/references/
+!/references/*.md
+!/scripts/
+!/scripts/*.py
+!/scripts/vendor/
+!/scripts/vendor/*.py
+!/scripts/vendor/*LICENSE
+!/tests/
+!/tests/*.py
